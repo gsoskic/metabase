@@ -1,1 +1,1 @@
-FROM metabase/metabase:latest
+FROM metabase/metabase:v0.56.6@sha256:953cc94ad545b4a866d355d03d33c10d3a2f089842dba7b3b1d9769597b562f5
